@@ -1,3 +1,4 @@
+![logo](https://github.com/Prathammishra21/Prathammishra21/blob/main/P.png)
 <h1 align="center">Hi 👋, I'm Pratham Mishra</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://github.com/Prathammishra21/Prathammishra21/assets/146667346/2e437413-4182-4b76-87b0-1950c59361c0)"align="right" width=400" alt="coding">
