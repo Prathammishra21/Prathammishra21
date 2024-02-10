@@ -1,14 +1,14 @@
 ![logo](https://github.com/Prathammishra21/Prathammishra21/blob/main/P%20(1).png)
 <h1 align="center">Hi 👋, I'm Pratham Mishra</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from Lucknow, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathammishra21&label=Profile%20views&color=0e75b6&style=flat" alt="prathammishra21" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@pratham___21" target="blank"><img src="https://img.shields.io/twitter/follow/@pratham___21?logo=twitter&style=for-the-badge" alt="@pratham___21" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot,Hibernate,Javascript**
+- 🌱 I’m currently learning **Spring security,Javascript**
 
-- 💬 Ask me about **Java,Springboot,Frontend Development**
+- 💬 Ask me about **Java,Springboot,Web Development**
 
 - 📫 How to reach me **mishrapratham119@gmail.com**
 
